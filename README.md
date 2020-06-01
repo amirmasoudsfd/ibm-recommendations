@@ -10,7 +10,7 @@ I analyzed user behavior and social network data on IBM Watson platform to build
 
 ## Project Motivation
 
-IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, I will build a recommendation engine based on user behavior and social network data, to surface content most likely to be relevant to a user. I analyzed the interactions that users have with articles on the IBM Watson Studio platform and made different recommendation models to recommend new articles to them. This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
+IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, I built a recommendation engine based on user behavior and social network data, to surface content most likely to be relevant to a user. I analyzed the interactions that users have with articles on the IBM Watson Studio platform and made different recommendation models to recommend new articles to them. This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
 
 The project is divided into the following sections:
 
@@ -27,7 +27,7 @@ To get started in building recommendations, you will first find the most popular
 
 In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users. You will implement this next.
 
-### IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
+### IV. Content Based Recommendations
 
 Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using your NLP skills, you might come up with some extremely creative ways to develop a content based recommendation system. You are encouraged to complete a content based recommendation system, but not required to do so to complete this project.
 
